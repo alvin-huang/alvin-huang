@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 <!--
 **alvin-huang/alvin-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
